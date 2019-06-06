@@ -57,7 +57,7 @@ class HMDB51Dataset(Dataset):
         """
         Returns:
             clip (tensor): [channel x time x height x width]
-            class_idx (tensor): class index, [0-100]
+            class_idx (tensor): class index, [0-50]
         """
         if self.train:
             videoname = self.train_split[idx]
@@ -153,7 +153,7 @@ class HMDB51ClipRetrievalDataset(Dataset):
         """
         Returns:
             clip (tensor): [channel x time x height x width]
-            class_idx (tensor): class index [0-100]
+            class_idx (tensor): class index [0-50]
         """
         if self.train:
             videoname = self.train_split[idx]
