@@ -1,5 +1,5 @@
 # VCOP
-This is the implementation of our paper "Self-supervised Spatiotemporal Learning via Video Clip Order Prediction". 
+This is the implementation of our paper "[Self-supervised Spatiotemporal Learning via Video Clip Order Prediction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Self-Supervised_Spatiotemporal_Learning_via_Video_Clip_Order_Prediction_CVPR_2019_paper.pdf)". 
 
 ### Environments
 * Ubuntu 16.04
