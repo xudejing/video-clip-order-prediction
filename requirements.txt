@@ -1,0 +1,16 @@
+ffmpeg-python==0.1.17
+imageio==2.4.1
+matplotlib==3.0.3
+moviepy==0.2.3.5
+numpy==1.15.4
+pandas==0.23.4
+Pillow==6.0.0
+requests==2.21.0
+scikit-learn==0.20.1
+scikit-video==1.1.11
+scipy==1.2.1
+tensorboard==1.14.0
+tensorboardX==1.4
+torch==0.4.1
+torchvision==0.2.1
+tqdm==4.31.1
