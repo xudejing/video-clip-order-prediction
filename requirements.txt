@@ -4,7 +4,7 @@ matplotlib==3.0.3
 moviepy==0.2.3.5
 numpy==1.15.4
 pandas==0.23.4
-Pillow==6.0.0
+Pillow==9.3.0
 requests==2.21.0
 scikit-learn==0.20.1
 scikit-video==1.1.11
