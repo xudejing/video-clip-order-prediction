@@ -8,7 +8,7 @@ Pillow==6.0.0
 requests==2.21.0
 scikit-learn==0.20.1
 scikit-video==1.1.11
-scipy==1.2.1
+scipy==1.10.0
 tensorboard==1.14.0
 tensorboardX==1.4
 torch==0.4.1
